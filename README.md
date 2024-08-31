@@ -1,16 +1,47 @@
+
 # mi_card_app
 
-Name card app built with flutter
+A minimal and elegant digital name card app built with Flutter.
+
+## Features
+
+- Clean, modern UI
+- Custom fonts and assets
+- Cross-platform support (Android, iOS, more)
+- Easy to personalize
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository and run the app with Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+git clone https://github.com/your-username/mi_card_app.git
+cd mi_card_app
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Example |
+|---------|
+| ![App Screenshot](screenshots/img.png) |
+
+## Customization
+
+Personalize your name, title, and contact info in the main Dart file.  
+Add your own images to the `images/` folder and use your favorite fonts by editing `pubspec.yaml`.
+
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+
+## License
+
+For learning and personal use.
+
+---
+
+Made with Flutter.
